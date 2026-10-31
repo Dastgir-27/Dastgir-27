@@ -146,19 +146,6 @@ Full Stack Developer specializing in the **MERN stack**, with hands-on productio
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Dastgir-27&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dastgir-27&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dastgir-27&hide_border=true" />
-</p>
-
----
-
 ## 📫 Let's Connect
 
 <p align="center">
